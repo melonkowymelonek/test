@@ -19,17 +19,9 @@
 <a href="https://fundlog.xmelonekmax.pl/hypixel.net">`multiplayer.xmelonekmax.pl/hypixel.net`</a> - Add the server & show your updated server list
 
 ## Technical Details
-* 1:1 replication of Minecraft 1.20.4 UI
+* Next.js
 * TypeScript
-* React 19 RC
 * React Compiler
-* React Router
-* Vite PWA
-* html-react-parser (https://www.npmjs.com/package/html-react-parser)
-* Minecraft TOP - Status API (https://docs.mcsv.top/en/)
-* minecraft-motd-parser (https://www.npmjs.com/package/@sfirew/minecraft-motd-parser)
-
-## Testing Tools
-* Vitest
-* React Testing Library
-* Playwright
+* Serwist
+* Mongoose
+* MongoDB
