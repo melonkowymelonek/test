@@ -23,5 +23,9 @@
 * TypeScript
 * React Compiler
 * Serwist
+* Arctic
 * Mongoose
 * MongoDB
+* Dexie.js
+* Tailwind
+* shadcn
