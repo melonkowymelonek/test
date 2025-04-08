@@ -28,8 +28,8 @@
   <img src="assets/expense-editing.gif" alt="expense editing" width="400" height="525">
   <img src="assets/category-editing.gif" alt="category editing" width="400" height="525">
 </div>
-<br />
-<br />
+
+<br /><br />
 ## 🚀 Getting Started
 
 To run the project locally:
