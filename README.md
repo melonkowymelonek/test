@@ -18,6 +18,14 @@
 
 <a href="https://fundlog.xmelonekmax.pl/hypixel.net">`multiplayer.xmelonekmax.pl/hypixel.net`</a> - Add the server & show your updated server list
 
+## ✨ Features
+* 💸 Log your expenses and view them on interactive charts
+* 💱 Add expenses in any currency – automatically converted to your main currency using real-time exchange rates
+* 📱 Native iOS-inspired UI for a smooth and familiar experience
+* 🔐 Sign in with GitHub or Google via OAuth
+* 💾 Works offline as a PWA, with automatic sync to a MongoDB database when online
+* 🌍 Multi-language support (Polish and English)
+
 ## 🛠️ Technical Details
 * Next.js
 * TypeScript
