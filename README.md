@@ -28,4 +28,4 @@
 * MongoDB
 * Dexie.js
 * Tailwind
-* shadcn
+* shadcn/ui
