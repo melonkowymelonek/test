@@ -22,10 +22,12 @@
 * 🌍 Multi-language support (Polish and English)
 <br /><br />
 ## 🎥 Showcase
-<img src="assets/overview-page.png" alt="logo" width="160" height="117">
-<img src="assets/analytics-page.png" alt="logo" width="160" height="117">
-<img src="assets/expense-editing.gif" alt="logo" width="160" height="117">
-<img src="assets/category-editing.gif" alt="logo" width="160" height="117">
+<div align="center">
+  <img src="assets/overview-page.png" alt="logo" width="160" height="117">
+  <img src="assets/analytics-page.png" alt="logo" width="160" height="117">
+  <img src="assets/expense-editing.gif" alt="logo" width="160" height="117">
+  <img src="assets/category-editing.gif" alt="logo" width="160" height="117">
+</div>
 <br /><br />
 ## 🚀 Getting Started
 
