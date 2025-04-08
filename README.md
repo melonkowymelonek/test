@@ -20,9 +20,10 @@
 
 ## 🛠️ Technical Details
 * Next.js
-* next-intl
 * TypeScript
 * React Compiler
+* next-intl
+* ExchangeRate-API
 * Serwist
 * Arctic
 * Mongoose
