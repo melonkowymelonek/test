@@ -17,7 +17,7 @@
 <a href="https://fundlog.xmelonekmax.pl">`multiplayer.xmelonekmax.pl`</a> - Show your server list
 
 <a href="https://fundlog.xmelonekmax.pl/hypixel.net">`multiplayer.xmelonekmax.pl/hypixel.net`</a> - Add the server & show your updated server list
-
+<br /><br />
 ## ✨ Features
 * 💸 Log your expenses and view them on interactive charts
 * 💱 Add expenses in any currency – automatically converted to your main currency using real-time exchange rates
@@ -25,7 +25,7 @@
 * 🔐 Sign in with GitHub or Google via OAuth
 * 💾 Works offline as a PWA, with automatic sync to a MongoDB database when online
 * 🌍 Multi-language support (Polish and English)
-
+<br /><br />
 ## 🚀 Getting Started
 
 To run the project locally:
@@ -65,7 +65,7 @@ pnpm run build
 pnpm start
 ```
 The app will be available at [http://localhost:3000](http://localhost:3000)
-
+<br /><br />
 ## 🛠️ Technical Details
 * Next.js
 * TypeScript
