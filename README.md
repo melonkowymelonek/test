@@ -20,6 +20,7 @@
 
 ## 🛠️ Technical Details
 * Next.js
+* next-intl
 * TypeScript
 * React Compiler
 * Serwist
