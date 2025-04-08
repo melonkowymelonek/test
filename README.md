@@ -26,6 +26,46 @@
 * 💾 Works offline as a PWA, with automatic sync to a MongoDB database when online
 * 🌍 Multi-language support (Polish and English)
 
+## 🚀 Getting Started
+
+To run the project locally:
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/xMelonekMaX/fund-log.git
+cd fund-log
+```
+
+2. **Install dependencies:**
+
+```bash
+pnpm install
+```
+
+3. **Create a `.env` file in the root directory** with the following content:
+
+```env
+NEXT_PUBLIC_BASE_URL="http://localhost:3000"
+
+GOOGLE_CLIENT_ID=""
+GOOGLE_CLIENT_SECRET=""
+
+GITHUB_CLIENT_ID=""
+GITHUB_CLIENT_SECRET=""
+
+MONGODB_URI="mongodb://localhost:27017/fundlog"
+```
+> ⚠️ Replace the empty values with your actual OAuth credentials.
+
+4. **Build and start the app:**
+
+```bash
+pnpm run build
+pnpm start
+```
+The app will be available at [http://localhost:3000](http://localhost:3000)
+
 ## 🛠️ Technical Details
 * Next.js
 * TypeScript
