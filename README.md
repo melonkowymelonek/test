@@ -7,7 +7,7 @@
   <h3 align="center">FundLog</h3>
 
   <p align="center">
-    A Next.js app for tracking expenses and visualizing stats. Fully offline, syncs to MongoDB, supports GitHub/Google OAuth, and faithfully mimics iOS using Tailwind and shadcn/ui
+    A Next.js app for tracking expenses and visualizing stats. Works fully offline with seamless sync to MongoDB, supports GitHub/Google OAuth, and mimics the look of native iOS apps using Tailwind and shadcn/ui
     <br />
     <a href="https://fundlog.xmelonekmax.pl"><strong>Open the app »</strong></a>
   </p>
