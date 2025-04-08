@@ -81,5 +81,5 @@ The app will be available at [http://localhost:3000](http://localhost:3000)
 * Mongoose
 * MongoDB
 * Dexie.js
-* Tailwind
+* Tailwind CSS
 * shadcn/ui
