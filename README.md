@@ -14,10 +14,7 @@
 </div>
 
 ## Usage
-
-
 <a href="https://fundlog.xmelonekmax.pl">`multiplayer.xmelonekmax.pl`</a> - Show your server list
-
 <a href="https://fundlog.xmelonekmax.pl/hypixel.net">`multiplayer.xmelonekmax.pl/hypixel.net`</a> - Add the server & show your updated server list
 
 ## ✨ Features
