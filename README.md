@@ -23,8 +23,8 @@
 <br /><br />
 ## 🎥 Showcase
 <div align="center">
-  <img src="assets/overview-page.png" alt="overview page" width="" height="">
-  <img src="assets/analytics-page.png" alt="analytics page" width="" height="">
+  <img src="assets/overview-page.webp" alt="overview page" width="400" height="525">
+  <img src="assets/analytics-page.webp" alt="analytics page" width="400" height="525">
   <img src="assets/expense-editing.gif" alt="expense editing" width="400" height="525">
   <img src="assets/category-editing.gif" alt="category editing" width="400" height="525">
 </div>
