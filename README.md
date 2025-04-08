@@ -25,8 +25,8 @@
 <div align="center">
   <img src="assets/overview-page.png" alt="overview page" width="" height="">
   <img src="assets/analytics-page.png" alt="analytics page" width="" height="">
-  <img src="assets/expense-editing.gif" alt="expense editing" width="442" height="580">
-  <img src="assets/category-editing.gif" alt="category editing" width="442" height="580">
+  <img src="assets/expense-editing.gif" alt="expense editing" width="400" height="525">
+  <img src="assets/category-editing.gif" alt="category editing" width="400" height="525">
 </div>
 <br /><br />
 ## 🚀 Getting Started
