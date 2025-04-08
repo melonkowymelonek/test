@@ -18,7 +18,7 @@
 
 <a href="https://fundlog.xmelonekmax.pl/hypixel.net">`multiplayer.xmelonekmax.pl/hypixel.net`</a> - Add the server & show your updated server list
 
-## Technical Details
+## 🛠️ Technical Details
 * Next.js
 * TypeScript
 * React Compiler
