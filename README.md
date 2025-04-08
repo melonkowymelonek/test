@@ -7,7 +7,7 @@
   <h3 align="center">FundLog</h3>
 
   <p align="center">
-    Save your expenses and analyze them with clear charts
+    A Next.js app for tracking expenses and visualizing stats. Fully offline, syncs to MongoDB, supports GitHub/Google OAuth, and faithfully mimics iOS using Tailwind and shadcn/ui
     <br />
     <a href="https://fundlog.xmelonekmax.pl"><strong>Open the app »</strong></a>
   </p>
