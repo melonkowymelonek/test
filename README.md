@@ -14,9 +14,12 @@
 </div>
 
 ## 🚀 Usage
+
 <a href="https://multiplayer.xmelonekmax.pl">`multiplayer.xmelonekmax.pl`</a> - Show your server list
+
 <a href="https://multiplayer.xmelonekmax.pl/hypixel.net">`multiplayer.xmelonekmax.pl/hypixel.net`</a> - Add the server & show your updated server list
 <br /><br />
+
 ## 🎥 Showcase
 <div align="center">
   <img src="assets/multiplayer-screen.webp" alt="multiplayer screen" width="420" height="452">
@@ -27,7 +30,8 @@ Original Minecraft 1.20.4:
 <div align="center">
   <img src="assets/minecraft-window.webp" alt="minecraft window">
 </div>
-<br /><br />
+<br />
+
 ## 🛠️ Technical Details
 - 1:1 replication of Minecraft 1.20.4 UI
 - TypeScript
@@ -39,6 +43,7 @@ Original Minecraft 1.20.4:
 - Minecraft TOP - Status API (https://docs.mcsv.top/en/)
 - minecraft-motd-parser (https://www.npmjs.com/package/@sfirew/minecraft-motd-parser)
   <br /><br />
+  
 ## 🧪 Testing Tools
 - Vitest
 - React Testing Library
