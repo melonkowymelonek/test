@@ -22,8 +22,8 @@
 
 ## 🎥 Showcase
 <div align="center">
-  <img src="assets/multiplayer-screen.webp" alt="multiplayer screen" width="450" height="485">
-  <img src="assets/add-server-screen.webp" alt="add server screen" width="450" height="485">
+  <img src="assets/multiplayer-screen.webp" alt="multiplayer screen" width="425" height="458">
+  <img src="assets/add-server-screen.webp" alt="add server screen" width="425" height="458">
   <img src="assets/expense-editing.gif" alt="expense editing" width="400" height="525">
   <img src="assets/category-editing.gif" alt="category editing" width="400" height="525">
 </div>
