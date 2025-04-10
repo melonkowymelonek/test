@@ -13,7 +13,7 @@
   </p>
 </div>
 
-## 🚀 Usage
+## 🧑‍💻 Usage
 
 <a href="https://multiplayer.xmelonekmax.pl">`multiplayer.xmelonekmax.pl`</a> - Show your server list
 
