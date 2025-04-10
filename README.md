@@ -22,8 +22,8 @@
 
 ## 🎥 Showcase
 <div align="center">
-  <img src="assets/multiplayer-screen.webp" alt="multiplayer screen" width="400" height="431">
-  <img src="assets/add-server-screen.webp" alt="add server screen" width="400" height="431">
+  <img src="assets/multiplayer-screen.webp" alt="multiplayer screen" width="410" height="442">
+  <img src="assets/add-server-screen.webp" alt="add server screen" width="410" height="442">
 </div>
 <br />
 Original Minecraft 1.20.4:
