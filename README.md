@@ -32,6 +32,17 @@ Original Minecraft 1.20.4:
 </div>
 <br />
 
+## 🚀 Getting Started
+To run the project locally:
+```bash
+git clone https://github.com/xMelonekMaX/minecraft-multiplayer-screen.git
+cd minecraft-multiplayer-screen
+pnpm install
+pnpm run dev
+```
+The app will be available at [http://localhost:5173](http://localhost:5173)
+<br /><br />
+
 ## 🛠️ Technical Details
 - 1:1 replication of Minecraft 1.20.4 UI
 - TypeScript
@@ -42,7 +53,7 @@ Original Minecraft 1.20.4:
 - html-react-parser (https://www.npmjs.com/package/html-react-parser)
 - Minecraft TOP - Status API (https://docs.mcsv.top/en/)
 - minecraft-motd-parser (https://www.npmjs.com/package/@sfirew/minecraft-motd-parser)
-  <br /><br />
+<br /><br />
   
 ## 🧪 Testing Tools
 - Vitest
