@@ -27,9 +27,7 @@
 </div>
 <br />
 Original Minecraft 1.20.4:
-<div align="center">
-  <img src="assets/minecraft-window.webp" alt="minecraft window">
-</div>
+<img src="assets/minecraft-window.webp" alt="minecraft window">
 <br />
 
 ## 🚀 Getting Started
